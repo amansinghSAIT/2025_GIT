@@ -1,0 +1,1 @@
+I'm am a passonate DevOps Engineer with expertise in mern stack and i also have a understanding of DevOps which stand for Development and operation which lead toa continuous integration at each stag
